@@ -1,4 +1,5 @@
 package com.client.view;
+
 //Friend List GUI
 import javax.swing.*;
 import java.awt.*;
